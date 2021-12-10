@@ -1,0 +1,7 @@
+C:\Users\manon\Documents\Cours A3\Varna S5\Programming basics\Section3\Section3\bin\Debug\Section3.exe.config
+C:\Users\manon\Documents\Cours A3\Varna S5\Programming basics\Section3\Section3\bin\Debug\Section3.exe
+C:\Users\manon\Documents\Cours A3\Varna S5\Programming basics\Section3\Section3\bin\Debug\Section3.pdb
+C:\Users\manon\Documents\Cours A3\Varna S5\Programming basics\Section3\Section3\obj\Debug\Section3.csprojAssemblyReference.cache
+C:\Users\manon\Documents\Cours A3\Varna S5\Programming basics\Section3\Section3\obj\Debug\Section3.csproj.CoreCompileInputs.cache
+C:\Users\manon\Documents\Cours A3\Varna S5\Programming basics\Section3\Section3\obj\Debug\Section3.exe
+C:\Users\manon\Documents\Cours A3\Varna S5\Programming basics\Section3\Section3\obj\Debug\Section3.pdb
